@@ -1,0 +1,160 @@
+#allclass {position: relative;
+scroll-behavior: smooth;
+background-size: cover;
+}
+#index-title {
+color: gold
+}
+
+
+#regis {
+    color: aliceblue; justify-items: right;
+}
+   
+
+    #signin {
+        animation: alternate; color: gold; justify-items: center;
+    }
+
+    #battom-img {
+        animation: forwards;
+    }
+
+   #campus {
+    background-image: url(./img/habila-mazawaje-TEa_naNbNr4-unsplash.jpg);
+background-size: 1600px 1100px;
+background-repeat: no-repeat;
+
+
+}
+    
+    #amphi-remove {
+        color:white;
+    }
+    #amphi-list {
+        color:black;
+    }
+    #add-amph {
+        color: goldenrod;
+    }
+    #occup {
+        color: maroon;
+    }
+#avail {
+    color:green
+}
+#buk {
+    color: black;
+}
+
+#stform {
+    position: -ms-page; justify-content: center;
+}
+#body-class {
+    place-content: right;
+    margin-left: 69%;
+    background-color: black;
+}
+#index-title {
+    margin-left: -95%;
+}
+#accounte{
+    color: green;
+}
+#about {
+    color: aliceblue;
+}
+
+#contact {
+    color: aliceblue;
+}
+#compus-header {
+    margin-left: 89%;
+}
+#campus-home{
+    color: aliceblue;
+}
+
+
+.remove-button{
+    margin-top: 5%;
+    background-color: red;
+    color: aliceblue;
+}
+#button-add {
+    margin-left: 69%;
+    margin-top: 3%;
+    color: aliceblue;
+}
+#list-button {
+    margin-left: 79%;
+    margin-bottom: 5%;
+}
+
+#avail{
+    margin-left: 45%;
+    
+}
+#avail-button {
+    background-color: green;
+    color: aliceblue;
+}
+#occup-button{
+    margin-top: 15%;
+    background-color: black;
+    color: aliceblue;
+}
+#camp-about {
+    color: aliceblue;
+}
+#camp-contact {
+    color: aliceblue;
+}
+
+#book-button {
+    background-color: gold;
+    color: aliceblue;
+    border: 5px;
+}
+#add-button {
+    color: aliceblue;
+    background-color: blue;
+}
+#form-student {
+    background-image: url(./img/frank-van-hulst--IimCATePAw-unsplash.jpg);
+}
+
+#fakebutton{
+    color: white;
+        background-color:transparent;
+        
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        position: relative;
+        margin-top: 25%;
+        margin-left: 45%;
+        height: 13vh;
+        border-radius: 100px;
+        border-bottom-color:green;
+        border-left-color: green;
+        border-top-color: green;
+         border-right-color: gold;
+         border-width: 9px;
+        
+        
+        
+    }
+
+    #forcedHome{
+        color: aliceblue;
+    }
+
+    #avatar {
+        border-radius: 51px;
+        max-width: max-content;
+    
+
+        
+        
+    }
